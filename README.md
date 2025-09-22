@@ -146,7 +146,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Lisp-family languages (via Racket)`
 `Ruby`
 `and more`
-
+✅
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm)
